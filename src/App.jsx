@@ -1,6 +1,8 @@
 function App() {
   return (
-    <div>App</div>
+    <>
+    <h1 className="text-sm">React Form</h1>
+    </>
   )
 }
 
